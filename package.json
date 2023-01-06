@@ -14,7 +14,7 @@
   "dependencies": {
     "@chakra-ui/nuxt": "0.0.3",
     "@nuxtjs/emotion": "0.0.1",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",
